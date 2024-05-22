@@ -1,4 +1,3 @@
-# Micro Processor Assignment
 All Second year Microprocessor assignments.
 
 # Microprocessor Assignments
